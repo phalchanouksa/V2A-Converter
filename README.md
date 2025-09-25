@@ -19,10 +19,16 @@ pip install -r requirements.txt
 ### 2. Install FFmpeg
 Download FFmpeg from https://ffmpeg.org and place `ffmpeg.exe` in the `ffmpeg/` folder.
 
-### 3. Run the App
-```bash
-python V2A_Converter.py
-```
+## Downloads
+
+### Portable Executable
+Download the latest portable executable (no installation required):
+
+<a href="https://github.com/phalchanouksa/V2A-Converter/releases/latest/download/V2A-Converter.exe">
+  <img src="https://img.shields.io/badge/Download%20V2A%20Converter-Executable-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Download V2A Converter">
+</a>
+
+Just download and run! FFmpeg is included in the portable version.
 
 ## Building Executable
 
