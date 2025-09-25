@@ -7,7 +7,7 @@ A simple Video to Audio converter with drag & drop support.
 ### Portable Executable
 Download the latest portable executable (no installation required):
 
-<a href="https://github.com/phalchanouksa/V2A-Converter/releases/latest/download/V2A-Converter.exe">
+<a href="https://github.com/phalchanouksa/V2A-Converter/releases/latest/download/V2A.Converter.exe">
   <img src="https://img.shields.io/badge/Download%20V2A%20Converter-Executable-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Download V2A Converter">
 </a>
 
