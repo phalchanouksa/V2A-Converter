@@ -50,4 +50,5 @@ The executable will be in the `dist/` folder.
 - **Permission errors?** Run as administrator or check folder permissions
 
 ## License
-MIT License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
