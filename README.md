@@ -2,23 +2,6 @@
 
 A simple Video to Audio converter with drag & drop support.
 
-## Features
-- Convert videos to MP3, WAV, FLAC, AAC, OGG
-- Drag & drop files into the app
-- Batch conversion support
-- Progress tracking with ETA
-- Custom quality settings
-
-## Quick Start
-
-### 1. Install Requirements
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Install FFmpeg
-Download FFmpeg from https://ffmpeg.org and place `ffmpeg.exe` in the `ffmpeg/` folder.
-
 ## Downloads
 
 ### Portable Executable
@@ -29,6 +12,25 @@ Download the latest portable executable (no installation required):
 </a>
 
 Just download and run! FFmpeg is included in the portable version.
+
+## Features
+- Convert videos to MP3, WAV, FLAC, AAC, OGG
+- Drag & drop files into the app
+- Batch conversion support
+- Progress tracking with ETA
+- Custom quality settings
+
+## Quick Start (If you want to tweak of build yourself)
+
+### 1. Install Requirements
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Install FFmpeg
+Download FFmpeg from https://ffmpeg.org and place `ffmpeg.exe` in the `ffmpeg/` folder.
+
+
 
 ## Building Executable
 
